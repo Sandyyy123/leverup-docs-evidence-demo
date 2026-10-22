@@ -1,0 +1,13 @@
+{"question": "How long do data export download links stay valid?", "expected_doc": "export"}
+{"question": "Which plans include SAML single sign-on?", "expected_doc": "sso"}
+{"question": "What happens when I exceed the API rate limit?", "expected_doc": "api_limits"}
+{"question": "How many requests per minute does the REST API allow?", "expected_doc": "api_limits"}
+{"question": "How long are deleted pages kept in the trash?", "expected_doc": "retention"}
+{"question": "Can I get a refund on an annual plan?", "expected_doc": "billing"}
+{"question": "Who can change the subscription plan?", "expected_doc": "permissions"}
+{"question": "How do I change the billing email for invoices?", "expected_doc": "billing"}
+{"question": "Does SCIM deactivate users automatically?", "expected_doc": "sso"}
+{"question": "Can enterprise customers set a custom retention period?", "expected_doc": "retention"}
+{"question": "Does Acme Workspace integrate with Salesforce?", "expected_doc": null}
+{"question": "What is the uptime SLA guarantee?", "expected_doc": null}
+{"question": "Is there a student discount?", "expected_doc": null}
